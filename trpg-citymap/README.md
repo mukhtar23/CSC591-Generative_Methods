@@ -11,4 +11,4 @@
     - click the 3D viewer to start interaction, you can move by <kdb>WASD</kdb> and use <kdb>Space</kdb> to jump, use <kdb>mouse</kdb> to look around
     - when you want to leave, press <kdb>Esc</kdb> so it will cancel catching your input.
 5. Sometimes 3d viewer may blank out, just refresh to regenerate
-6. 3D viewer use webGL so your computer may scream and being laggy if you don't have a dedicated graphic card
+6. 3D viewer use webGL so your computer may scream and being laggy if you don't have a dedicated graphics card
